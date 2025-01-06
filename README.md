@@ -40,9 +40,8 @@
 -->
 
 <p align="center">
-  <a href="https://discordapp.com/users/1226985025224970261"><img alt="Discord Presence"
-  src="https://lanyard-profile-readme.vercel.app/api/1226985025224970261?theme=dark&animated=true&hideDiscrim=true&borderRadius=30px&hideStatus=true" />
-</a>
+	<a href="https://discord.gg/jc8hKUSB"><img src=".assets/image.png" alt="Imperium" height="200" /></a>
+</p>
 
 
 <br/><br/>
